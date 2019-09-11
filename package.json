@@ -1,0 +1,15 @@
+{
+  "name": "pfair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eosjs-ecc": "github:aaroncox/eosjs-ecc#nonce-changer"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
