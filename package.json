@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "eosjs-ecc": "github:aaroncox/eosjs-ecc#nonce-changer"
+    "eosjs": "^20.0.0",
+    "eosjs-ecc": "github:aaroncox/eosjs-ecc#nonce-changer",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {},
   "scripts": {
